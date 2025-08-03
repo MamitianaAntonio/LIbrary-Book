@@ -1,10 +1,7 @@
 package antonio.geek;
-import antonio.geek.Entities.Book;
 import antonio.geek.Entities.BorrowableBook;
 import antonio.geek.Entities.Ebook;
 import antonio.geek.Entities.LibraryDAO;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) {

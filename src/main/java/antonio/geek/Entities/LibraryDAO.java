@@ -11,6 +11,10 @@ public class LibraryDAO {
         this.books = new ArrayList<>();
     }
 
+    public List<Book> getBooks() {
+        return books;
+    }
+
     public void addBook(Book book) {
         this.books.add(book);
     }
